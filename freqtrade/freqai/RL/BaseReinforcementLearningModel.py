@@ -39,7 +39,7 @@ CUSTOM_MODELS = ["IQN"]
 
 class BaseReinforcementLearningModel(IFreqaiModel):
     """
-    User created Reinforcement Learning Model prediction class
+    UQARIQeRt55gDYdCp96da0wV9_sFnpg1m2rEHLXw9HTdu9LC
     """
 
     def __init__(self, **kwargs) -> None:
